@@ -1,0 +1,24 @@
+.col-6 img {
+    width: 10%;
+    /* padding-top: 30px; */
+}
+.col-6 ul {
+    margin-left: 50%;
+}
+.col-6 li {
+    list-style-type: none;
+    float: left;
+    padding: 10px;
+}
+
+.carousel-item {
+    width: 50%;
+}
+
+.card {
+    display:flex
+}
+
+footer p {
+    text-align: center;
+}
