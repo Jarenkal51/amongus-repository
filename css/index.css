@@ -1,3 +1,7 @@
+body {
+    background-color: #F0AE39;
+}
+
 .col-6 img {
     width: 10%;
     /* padding-top: 30px; */
@@ -11,14 +15,38 @@
     padding: 10px;
 }
 
-.carousel-item {
-    width: 50%;
+.card {
+    display:flex;
+    margin: auto;
+    background-color: #6BC5F1;
 }
 
-.card {
-    display:flex
+footer {
+    background-color: #411807;
+    /* height: 100px; */
+
 }
 
 footer p {
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 40px;
+    color: white;
+}
+
+footer img {
+    width: 120px;
+    /* height: 30px; */
+}
+
+.images-plataformas {
+    margin-left: 40%;
+    padding-bottom: 16px;
+    align-items: center;
+}
+
+.images-plataformas img {
+    align-items: center;
+    padding-right: 30px;
+
 }
